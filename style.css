@@ -1,0 +1,28 @@
+.profile-img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
+
+.contact-message {
+    width: 50%;
+    margin: 40px auto 60px;
+}
+.get-in-touch{
+    color: #AF7A6D;
+}
+
+.bottom-container {
+    background-color: #CCC7B9;
+    padding: 50px 0 20px;
+}
+.btn.btn-secondary {
+    background: #CCC7B9;
+    background-image: linear-gradient(to bottom, #CCC7B9, #AF7A6D);
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 0;
+  }
